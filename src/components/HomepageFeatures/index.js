@@ -4,7 +4,16 @@ import styles from './styles.module.css';
 
 const FeatureList = [
   {
-    title: 'Maker Protocol Core Modules',
+    title: 'Integrate Dai and Maker Vaults',
+    Svg: require('@site/static/img/undraw_docusaurus_tree.svg').default,
+    description: (
+      <>
+        Learn how to integrate Dai and Maker Vaults into your applications.
+      </>
+    ),
+  },
+  {
+    title: 'Core Protocol',
     Svg: require('@site/static/img/undraw_docusaurus_mountain.svg').default,
     description: (
       <>
@@ -22,16 +31,7 @@ const FeatureList = [
     ),
   },
   {
-    title: 'Integrate Dai and Maker Vaults',
-    Svg: require('@site/static/img/undraw_docusaurus_tree.svg').default,
-    description: (
-      <>
-        Learn how to integrate Dai and Maker Vaults into your applications.
-      </>
-    ),
-  },
-  {
-    title: 'Maker Governance Module',
+    title: 'Governance Module',
     Svg: require('@site/static/img/undraw_docusaurus_tree.svg').default,
     description: (
       <>

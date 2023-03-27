@@ -1,17 +1,18 @@
 ---
 description: Allowing Users to interact with the Maker Protocol more easily
+sidebar_position: 10
 ---
 
 # Proxy Module
 
 * **Module Name:** Proxy Module
 * **Type/Category: Proxy —>** DsrManager.sol, DssCdpManager.sol, VoteProxy.sol & DssProxyActions.sol
-* ****[**Associated MCD System Diagram**](https://github.com/makerdao/dss/wiki)
+* [**Associated MCD System Diagram**](https://github.com/makerdao/dss/wiki)
 * **Source code:**
-  * ****[**DSR Manager**](https://github.com/makerdao/dsr-manager/blob/master/src/DsrManager.sol)****
-  * ****[**CDP Manager**](https://github.com/makerdao/dss-cdp-manager/blob/master/src/DssCdpManager.sol)
-  * ****[**Vote Proxy**](https://github.com/makerdao/vote-proxy/blob/master/src/VoteProxy.sol)****
-  * ****[**Proxy Actions**](https://github.com/makerdao/dss-proxy-actions/blob/master/src/DssProxyActions.sol)
+  * [**DSR Manager**](https://github.com/makerdao/dsr-manager/blob/master/src/DsrManager.sol)
+  * [**CDP Manager**](https://github.com/makerdao/dss-cdp-manager/blob/master/src/DssCdpManager.sol)
+  * [**Vote Proxy**](https://github.com/makerdao/vote-proxy/blob/master/src/VoteProxy.sol)
+  * [**Proxy Actions**](https://github.com/makerdao/dss-proxy-actions/blob/master/src/DssProxyActions.sol)
 
 ## 1. Introduction (Summary)
 

@@ -1,4 +1,5 @@
 ---
+sidebar_position: 2
 description: "The Maker Protocol's liaison between the\_Oracles\_and\_Core Contracts"
 ---
 
@@ -6,9 +7,9 @@ description: "The Maker Protocol's liaison between the\_Oracles\_and\_Core Contr
 
 * **Contract Name:** spot.sol
 * **Type/Category:** DSS —> Core Module
-* ****[**Associated MCD System Diagram**](https://github.com/makerdao/dss/wiki)
-* ****[**Contract Source**](https://github.com/makerdao/dss/blob/master/src/spot.sol)
-* ****[**Etherscan** ](https://etherscan.io/address/0x65c79fcb50ca1594b025960e539ed7a9a6d434a3)
+* [**Associated MCD System Diagram**](https://github.com/makerdao/dss/wiki)
+* [**Contract Source**](https://github.com/makerdao/dss/blob/master/src/spot.sol)
+* [**Etherscan** ](https://etherscan.io/address/0x65c79fcb50ca1594b025960e539ed7a9a6d434a3)
 
 ## 1. Introduction
 

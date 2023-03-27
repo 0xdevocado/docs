@@ -1,4 +1,5 @@
 ---
+sidebar_position: 3
 description: The Maker Protocol's Debt Auction House
 ---
 
@@ -6,9 +7,9 @@ description: The Maker Protocol's Debt Auction House
 
 * **Contract Name:** flop.sol
 * **Type/Category:** DSS —> System Stabilizer Module
-* ****[**Associated MCD System Diagram**](https://github.com/makerdao/dss/wiki)
-* ****[**Contract Source**](https://github.com/makerdao/dss/blob/master/src/flop.sol)
-* ****[**Etherscan**](https://etherscan.io/address/0xa41b6ef151e06da0e34b009b86e828308986736d#code)****
+* [**Associated MCD System Diagram**](https://github.com/makerdao/dss/wiki)
+* [**Contract Source**](https://github.com/makerdao/dss/blob/master/src/flop.sol)
+* [**Etherscan**](https://etherscan.io/address/0xa41b6ef151e06da0e34b009b86e828308986736d#code)
 
 ## 1. Introduction (Summary)
 

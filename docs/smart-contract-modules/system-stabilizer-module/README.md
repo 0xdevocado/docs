@@ -1,4 +1,5 @@
 ---
+sidebar_position: 5
 description: Keeping the Maker Protocol Stable
 ---
 
@@ -6,11 +7,11 @@ description: Keeping the Maker Protocol Stable
 
 * **Module Name:** System Stabilizer
 * **Type/Category:** DSS —> System Stabilizer Module (Vow.sol, Flap.sol, Flop.sol)
-* ****[**Associated MCD System Diagram**](https://github.com/makerdao/dss/wiki)
+* [**Associated MCD System Diagram**](https://github.com/makerdao/dss/wiki)
 * **Contract Sources:**&#x20;
-  * ****[**Vow**](https://github.com/makerdao/dss/blob/master/src/vow.sol)
-  * ****[**Flop** ](https://github.com/makerdao/dss/blob/master/src/flop.sol)
-  * ****[**Flap** ](https://github.com/makerdao/dss/blob/master/src/flap.sol)
+  * [**Vow**](https://github.com/makerdao/dss/blob/master/src/vow.sol)
+  * [**Flop** ](https://github.com/makerdao/dss/blob/master/src/flop.sol)
+  * [**Flap** ](https://github.com/makerdao/dss/blob/master/src/flap.sol)
 
 ## 1. Introduction (Summary)
 

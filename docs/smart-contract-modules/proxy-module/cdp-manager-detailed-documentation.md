@@ -6,9 +6,9 @@ description: Managing Vaults to be transferred between users
 
 * **Contract Name:** cdpManager.sol
 * **Type/Category:** Vault Management
-* ****[**Associated MCD System Diagram**](https://github.com/makerdao/dss/wiki#system-architecture)
-* ****[**Contract Source**](https://github.com/makerdao/dss-cdp-manager/tree/master/src)
-* ****[**Etherscan**](https://etherscan.io/address/0x5ef30b9986345249bc32d8928b7ee64de9435e39)
+* [**Associated MCD System Diagram**](https://github.com/makerdao/dss/wiki#system-architecture)
+* [**Contract Source**](https://github.com/makerdao/dss-cdp-manager/tree/master/src)
+* [**Etherscan**](https://etherscan.io/address/0x5ef30b9986345249bc32d8928b7ee64de9435e39)
 
 ## 1. Introduction (Summary)
 

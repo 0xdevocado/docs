@@ -1,4 +1,5 @@
 ---
+sidebar_position: 7
 description: The MKR Governance Token Implementation
 ---
 
@@ -6,9 +7,9 @@ description: The MKR Governance Token Implementation
 
 * **Contract Name:** token.sol
 * **Type/Category:** MKR Module
-* ****[**Associated MCD System Diagram**](https://github.com/makerdao/dss/wiki#system-architecture)
-* ****[**Contract Source**](https://github.com/dapphub/ds-token/blob/master/src/token.sol)
-* ****[**Etherscan**](https://etherscan.io/address/0x9f8f72aa9304c8b593d555f12ef6589cc3a579a2)
+* [**Associated MCD System Diagram**](https://github.com/makerdao/dss/wiki#system-architecture)
+* [**Contract Source**](https://github.com/dapphub/ds-token/blob/master/src/token.sol)
+* [**Etherscan**](https://etherscan.io/address/0x9f8f72aa9304c8b593d555f12ef6589cc3a579a2)
 
 ## 1. Introduction (Summary)
 

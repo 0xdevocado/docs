@@ -1,5 +1,6 @@
 ---
 description: Introducing the Shutdown Mechanism of the Maker Protocol
+sidebar_position: 12
 ---
 
 # Maker Protocol Emergency Shutdown

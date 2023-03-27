@@ -8,8 +8,8 @@ description: >-
 
 * **Contract Name:** VoteProxy.sol
 * **Type/Category:** Proxy Module
-* \*\*\*\*[**Associated MCD System Diagram**](https://github.com/makerdao/dss/wiki#system-architecture)
-* \*\*\*\*[**Contract Source**](https://github.com/makerdao/vote-proxy/blob/master/src/VoteProxy.sol)
+* [**Associated MCD System Diagram**](https://github.com/makerdao/dss/wiki#system-architecture)
+* [**Contract Source**](https://github.com/makerdao/vote-proxy/blob/master/src/VoteProxy.sol)
 
 ## 1. Introduction \(Summary\)
 

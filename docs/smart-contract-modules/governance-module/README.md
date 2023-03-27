@@ -1,4 +1,5 @@
 ---
+sidebar_position: 8
 description: The Maker Protocol's Governance Contracts
 ---
 
@@ -22,9 +23,9 @@ The Governance Module has 3 core components consisting of the `Chief`, `Pause` a
 
 ### Governance Module Components Documentation
 
-* \*\*\*\*[**Chief - Detailed Documentation**](https://docs.makerdao.com/smart-contract-modules/governance-module/chief-detailed-documentation)
-* \*\*\*\*[**Pause - Detailed Documentation**](https://docs.makerdao.com/smart-contract-modules/governance-module/pause-detailed-documentation)
-* \*\*\*\*[**Spell - Detailed Documentation**](https://docs.makerdao.com/smart-contract-modules/governance-module/spell-detailed-documentation)
+* [**Chief - Detailed Documentation**](https://docs.makerdao.com/smart-contract-modules/governance-module/chief-detailed-documentation)
+* [**Pause - Detailed Documentation**](https://docs.makerdao.com/smart-contract-modules/governance-module/pause-detailed-documentation)
+* [**Spell - Detailed Documentation**](https://docs.makerdao.com/smart-contract-modules/governance-module/spell-detailed-documentation)
 
 ## 3. Key Mechanism and Concepts
 

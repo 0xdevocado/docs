@@ -1,5 +1,6 @@
 ---
 description: The Maker Protocol's Rate Accumulation Mechanism
+sidebar_position: 4
 ---
 
 # Rates Module

@@ -1,9 +1,13 @@
+---
+sidebar_position: 3
+---
+
 # Spell - Detailed Documentation
 
 * **Contract Name:** spell.sol
 * **Type/Category:** Governance Module
-* \*\*\*\*[**Associated MCD System Diagram**](https://github.com/makerdao/dss/wiki#system-architecture)
-* \*\*\*\*[**Contract Source**](https://github.com/dapphub/ds-spell/blob/master/src/spell.sol)
+* [**Associated MCD System Diagram**](https://github.com/makerdao/dss/wiki#system-architecture)
+* [**Contract Source**](https://github.com/dapphub/ds-spell/blob/master/src/spell.sol)
 
 ## 1. Introduction \(Summary\)
 

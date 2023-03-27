@@ -1,4 +1,5 @@
 ---
+sidebar_position: 1
 description: The Maker Protocol's Balance Sheet
 ---
 
@@ -6,9 +7,9 @@ description: The Maker Protocol's Balance Sheet
 
 * **Contract Name:** vow.sol
 * **Type/Category:** DSS —> System Stabilizer Module
-* ****[**Associated MCD System Diagram**](https://github.com/makerdao/dss/wiki)
-* ****[**Contract Source**](https://github.com/makerdao/dss/blob/master/src/vow.sol)
-* ****[**Etherscan**](https://etherscan.io/address/0xa950524441892a31ebddf91d3ceefa04bf454466)
+* [**Associated MCD System Diagram**](https://github.com/makerdao/dss/wiki)
+* [**Contract Source**](https://github.com/makerdao/dss/blob/master/src/vow.sol)
+* [**Etherscan**](https://etherscan.io/address/0xa950524441892a31ebddf91d3ceefa04bf454466)
 
 ## 1. Introduction (Summary)
 

@@ -9,9 +9,9 @@ description: A generalized wrapper for the Maker Protocol
 * [**Associated MCD System Diagram**](https://github.com/makerdao/dss/wiki#system-architecture)
 * [**Contract Source**](https://github.com/makerdao/dss-proxy-actions/blob/master/src/DssProxyActions.sol)
 * **Etherscan**
-  * \*\*\*\*[**Proxy Actions** ](https://etherscan.io/address/0x82ecd135dce65fbc6dbdd0e4237e0af93ffd5038)
-  * \*\*\*\*[**Proxy Actions End** ](https://etherscan.io/address/0x069b2fb501b6f16d1f5fe245b16f6993808f1008)
-  * \*\*\*\*[**Proxy Actions DSR**](https://etherscan.io/address/0x07ee93aeea0a36fff2a9b95dd22bd6049ee54f26)
+  * [**Proxy Actions** ](https://etherscan.io/address/0x82ecd135dce65fbc6dbdd0e4237e0af93ffd5038)
+  * [**Proxy Actions End** ](https://etherscan.io/address/0x069b2fb501b6f16d1f5fe245b16f6993808f1008)
+  * [**Proxy Actions DSR**](https://etherscan.io/address/0x07ee93aeea0a36fff2a9b95dd22bd6049ee54f26)
 
 ## 1. Introduction \(Summary\)
 

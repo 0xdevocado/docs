@@ -1,4 +1,5 @@
 ---
+sidebar_position: 1
 description: The Maker Protocol's Core Accounting System
 ---
 
@@ -6,9 +7,9 @@ description: The Maker Protocol's Core Accounting System
 
 * **Contract Name: Vat.sol**
 * **Type/Category:** DSS —> Core System Accounting
-* ****[**Associated MCD System Diagram**](https://github.com/makerdao/dss/wiki)
-* ****[**Contract Source**](https://github.com/makerdao/dss/blob/master/src/vat.sol)
-* ****[**Etherscan**](https://etherscan.io/address/0x35d1b3f3d7966a1dfe207aa4514c12a259a0492b)
+* [**Associated MCD System Diagram**](https://github.com/makerdao/dss/wiki)
+* [**Contract Source**](https://github.com/makerdao/dss/blob/master/src/vat.sol)
+* [**Etherscan**](https://etherscan.io/address/0x35d1b3f3d7966a1dfe207aa4514c12a259a0492b)
 
 ## 1. Introduction (Summary)
 

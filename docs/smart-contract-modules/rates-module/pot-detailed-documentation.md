@@ -1,14 +1,15 @@
 ---
 description: The Dai Savings Rate
+sidebar_position: 2
 ---
 
 # Pot - Detailed Documentation
 
 * **Contract Name:** pot.sol
 * **Type/Category:** DSS —> Rates Module
-* ****[**Associated MCD System Diagram**](https://github.com/makerdao/dss/wiki)
-* ****[**Contract Source**](https://github.com/makerdao/dss/blob/master/src/pot.sol)
-* ****[**Etherscan**](https://etherscan.io/address/0x197e90f9fad81970ba7976f33cbd77088e5d7cf7)
+* [**Associated MCD System Diagram**](https://github.com/makerdao/dss/wiki)
+* [**Contract Source**](https://github.com/makerdao/dss/blob/master/src/pot.sol)
+* [**Etherscan**](https://etherscan.io/address/0x197e90f9fad81970ba7976f33cbd77088e5d7cf7)
 
 ## 1. Introduction (Summary)
 

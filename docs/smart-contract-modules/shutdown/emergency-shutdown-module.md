@@ -1,5 +1,6 @@
 ---
 description: The ESM is the trigger system for the shutdown of the Maker Protocol
+sidebar_position: 2
 ---
 
 # ESM - Detailed Documentation

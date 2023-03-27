@@ -2,13 +2,10 @@
 description: >-
   A list of words, terms, variables, functions and more relating to the Maker
   Protocol
+sidebar_position: 13
 ---
 
-# MCD Glossaries
-
-## 1. [MCD General Glossary of Terms](https://makerdao.world/en/learn/Glossary/)
-
-## ​2. MCD Core Smart Contracts Glossary:
+# Maker Protocol Glossary
 
 ### **General**
 

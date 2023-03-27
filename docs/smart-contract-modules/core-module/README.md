@@ -1,4 +1,5 @@
 ---
+sidebar_position: 2
 description: The State of the Maker Protocol
 ---
 
@@ -8,8 +9,8 @@ description: The State of the Maker Protocol
 * **Type/Category:** Vault Core Module —> ( Vat.sol, Spot.sol )
 * [**Associated MCD System Diagram**](https://github.com/makerdao/dss/wiki)
 * **Contract Sources:**
-  * [**Vat**](https://github.com/makerdao/dss/blob/master/src/vat.sol)****
-  * ****[**Spot**](https://github.com/makerdao/dss/blob/master/src/spot.sol)****
+  * [**Vat**](https://github.com/makerdao/dss/blob/master/src/vat.sol)
+  * [**Spot**](https://github.com/makerdao/dss/blob/master/src/spot.sol)
 
 ## 1. Introduction (Summary)
 

@@ -1,15 +1,16 @@
 ---
+sidebar_position: 6
 description: The Maker Protocol's Collateral Auction House (Liquidation System 2.0)
 ---
 
-# Liquidation 2.0 Module
+# Liquidation Module
 
 * **Contract Source(s):** [clip.sol](https://github.com/makerdao/dss/blob/master/src/clip.sol), [dog.sol](https://github.com/makerdao/dss/blob/master/src/dog.sol), [abacus.sol](https://github.com/makerdao/dss/blob/master/src/abaci.sol)
 * **Type/Category:** DSS —> Liquidation 2.0 Module​​​
 * **Etherscan**
-  * ****[**Dog**](https://etherscan.io/address/0x135954d155898D42C90D2a57824C690e0c7BEf1B#code)****
-  * ****[**Clip (ETH-A)**](https://etherscan.io/address/0xc67963a226eddd77B91aD8c421630A1b0AdFF270#code)****
-  * ****[**Abacus (ETH-A)**](https://etherscan.io/address/0x7d9f92DAa9254Bbd1f479DBE5058f74C2381A898#code)****
+  * [**Dog**](https://etherscan.io/address/0x135954d155898D42C90D2a57824C690e0c7BEf1B#code)
+  * [**Clip (ETH-A)**](https://etherscan.io/address/0xc67963a226eddd77B91aD8c421630A1b0AdFF270#code)
+  * [**Abacus (ETH-A)**](https://etherscan.io/address/0x7d9f92DAa9254Bbd1f479DBE5058f74C2381A898#code)
 
 ## 1. Introduction
 

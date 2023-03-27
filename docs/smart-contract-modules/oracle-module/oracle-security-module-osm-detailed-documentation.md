@@ -1,9 +1,12 @@
-# Oracle Security Module \(OSM\) - Detailed Documentation
+---
+sidebar_position: 2
+---
+# Oracle Security Module (OSM) - Detailed Documentation
 
 * **Contract Name:** OSM
 * **Type/Category:** Oracles - Price Feed Module
-* \*\*\*\*[**Associated MCD System Diagram**](https://github.com/makerdao/dss/wiki#system-architecture)
-* \*\*\*\*[**Contract Source**](https://github.com/makerdao/osm/blob/master/src/osm.sol)
+* [**Associated MCD System Diagram**](https://github.com/makerdao/dss/wiki#system-architecture)
+* [**Contract Source**](https://github.com/makerdao/osm/blob/master/src/osm.sol)
 
 ## 1. Introduction
 

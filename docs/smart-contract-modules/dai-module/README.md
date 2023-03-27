@@ -1,4 +1,5 @@
 ---
+sidebar_position: 1
 description: The DAI token contract and all of the adapters DaiJoin adapters.
 ---
 
@@ -6,10 +7,10 @@ description: The DAI token contract and all of the adapters DaiJoin adapters.
 
 * **Module Name:** DAI Module
 * **Type/Category: Proxy —>** Dai.sol and DaiJoin.sol
-* ****[**Associated MCD System Diagram**](https://github.com/makerdao/dss/wiki)
+* [**Associated MCD System Diagram**](https://github.com/makerdao/dss/wiki)
 * **Contract Sources:**
-  * ****[**dai**](https://github.com/makerdao/dss/blob/master/src/dai.sol)****
-  * ****[**daiJoin**](https://github.com/makerdao/dss/blob/2318555e87b1798e322feaab36265a6e20d637be/src/join.sol#L100)****
+  * [**dai**](https://github.com/makerdao/dss/blob/master/src/dai.sol)
+  * [**daiJoin**](https://github.com/makerdao/dss/blob/2318555e87b1798e322feaab36265a6e20d637be/src/join.sol#L100)
 
 ## 1. Introduction (Summary)
 
@@ -63,7 +64,7 @@ The origin of DAI was designed to represent any token that the core system consi
 
 ### Core Module Components Documentation
 
-1. ****[**Dai - Detailed Documentation**](https://docs.makerdao.com/smart-contract-modules/dai-module/dai-detailed-documentation)****
+1. [**Dai - Detailed Documentation**](https://docs.makerdao.com/smart-contract-modules/dai-module/dai-detailed-documentation)
 2. [**DaiJoin Documentation** ](https://docs.makerdao.com/smart-contract-modules/collateral-module/join-detailed-documentation#3-key-mechanisms-and-concepts)(referenced in Join - Detailed Documentation)
 
 ## 3. Key Mechanism and Concepts

@@ -1,14 +1,15 @@
 ---
 description: Shutdown
+sidebar_position: 1
 ---
 
 # End - Detailed Documentation
 
 * **Contract Name:** end.sol
 * **Type/Category:** DSS
-* ****[**Associated MCD System Diagram**](https://github.com/makerdao/dss/wiki)
-* ****[**Contract Source**](https://github.com/makerdao/dss/blob/master/src/end.sol)
-* ****[**Etherscan**](https://etherscan.io/address/0xab14d3ce3f733cacb76ec2abe7d2fcb00c99f3d5)
+* [**Associated MCD System Diagram**](https://github.com/makerdao/dss/wiki)
+* [**Contract Source**](https://github.com/makerdao/dss/blob/master/src/end.sol)
+* [**Etherscan**](https://etherscan.io/address/0xab14d3ce3f733cacb76ec2abe7d2fcb00c99f3d5)
 
 ## 1. Introduction (Summary)
 

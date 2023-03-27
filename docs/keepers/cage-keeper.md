@@ -4,7 +4,7 @@ description: A Keeper to facilitate Emergency Shutdown
 
 # Cage Keeper
 
-## Introduction&#x20;
+## Introduction
 
 The `cage-keeper` is used to help facilitate [Emergency Shutdown](https://blog.makerdao.com/introduction-to-emergency-shutdown-in-multi-collateral-dai/) of the [Maker Protocol](https://github.com/makerdao/dss). Emergency shutdown is an involved, deterministic process, requiring interaction from all user types: Vault owners, Dai holders, Redemption keepers, MKR governors, and other Maker Protocol Stakeholders. A high level overview is as follows:
 

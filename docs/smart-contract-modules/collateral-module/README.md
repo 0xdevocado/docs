@@ -1,4 +1,5 @@
 ---
+sidebar_position: 3
 description: Adapters and Auction contracts for each specific collateral type
 ---
 
@@ -9,7 +10,7 @@ description: Adapters and Auction contracts for each specific collateral type
 * [**Associated MCD System Diagram**](https://github.com/makerdao/dss/wiki)
 * **Contract Sources:**&#x20;
   * [**Join**](https://github.com/makerdao/dss/blob/master/src/join.sol)
-  * [**Clip**](https://github.com/makerdao/dss/blob/master/src/clip.sol)****
+  * [**Clip**](https://github.com/makerdao/dss/blob/master/src/clip.sol)
 
 ## 1. Introduction (Summary)
 
@@ -27,7 +28,7 @@ The Collateral Module has 3 core components consisting of the `join`, and `flip`
 ### The Collateral Module is built up of the following components:
 
 1. [**Join Documentation**](https://docs.makerdao.com/smart-contract-modules/collateral-module/join-detailed-documentation)
-2. Clipper Contract - see **** [**Liquidation 2.0 Documentation**](https://docs.makerdao.com/smart-contract-modules/dog-and-clipper-detailed-documentation)****
+2. Clipper Contract - see [**Liquidation 2.0 Documentation**](https://docs.makerdao.com/smart-contract-modules/dog-and-clipper-detailed-documentation)
 
 ## 3. Key Mechanism and Concepts
 

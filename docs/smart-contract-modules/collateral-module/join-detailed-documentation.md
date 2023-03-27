@@ -2,12 +2,12 @@
 
 * **Contract Name:** join.sol
 * **Type/Category:** DSS —> Token Adapter Module
-* ****[**Associated MCD System Diagram**](https://github.com/makerdao/dss/wiki)
-* ****[**Contract Source**](https://github.com/makerdao/dss/blob/master/src/join.sol)
+* [**Associated MCD System Diagram**](https://github.com/makerdao/dss/wiki)
+* [**Contract Source**](https://github.com/makerdao/dss/blob/master/src/join.sol)
 * **Etherscan**
-  * ****[**Join Dai** ](https://etherscan.io/address/0x9759a6ac90977b93b58547b4a71c78317f391a28)
-  * ****[**Join Eth**](https://etherscan.io/address/0x2f0b23f53734252bda2277357e97e1517d6b042a)
-  * ****[**Join Bat**](https://etherscan.io/address/0x3d0b1912b66114d4096f48a8cee3a56c231772ca)
+  * [**Join Dai** ](https://etherscan.io/address/0x9759a6ac90977b93b58547b4a71c78317f391a28)
+  * [**Join Eth**](https://etherscan.io/address/0x2f0b23f53734252bda2277357e97e1517d6b042a)
+  * [**Join Bat**](https://etherscan.io/address/0x3d0b1912b66114d4096f48a8cee3a56c231772ca)
 
 ## 1. Introduction (Summary)
 

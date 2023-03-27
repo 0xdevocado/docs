@@ -1,4 +1,5 @@
 ---
+sidebar_position: 1
 description: Electing a Chief contract via an approval voting system
 ---
 
@@ -6,9 +7,9 @@ description: Electing a Chief contract via an approval voting system
 
 * **Contract Name:** chief.sol
 * **Type/Category:** Governance Module
-* ****[**Associated MCD System Diagram**](https://github.com/makerdao/dss/wiki#system-architecture)
-* ****[**Contract Source**](https://github.com/dapphub/ds-chief/blob/master/src/chief.sol)
-* ****[**Etherscan**](https://etherscan.io/address/0x0a3f6849f78076aefaDf113F5BED87720274dDC0#code)****
+* [**Associated MCD System Diagram**](https://github.com/makerdao/dss/wiki#system-architecture)
+* [**Contract Source**](https://github.com/dapphub/ds-chief/blob/master/src/chief.sol)
+* [**Etherscan**](https://etherscan.io/address/0x0a3f6849f78076aefaDf113F5BED87720274dDC0#code)
 
 ## 1. Introduction (Summary)
 

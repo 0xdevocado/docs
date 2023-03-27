@@ -1,13 +1,14 @@
 ---
 description: A delegatecall based proxy with an enforced delay
+sidebar_position: 2
 ---
 
 # Pause - Detailed Documentation
 
 * **Contract Name:** pause.sol
 * **Type/Category:** Governance Module
-* \*\*\*\*[**Associated MCD System Diagram**](https://github.com/makerdao/dss/wiki#system-architecture)
-* \*\*\*\*[**Contract Source**](https://github.com/dapphub/ds-pause/blob/master/src/pause.sol)
+* [**Associated MCD System Diagram**](https://github.com/makerdao/dss/wiki#system-architecture)
+* [**Contract Source**](https://github.com/dapphub/ds-pause/blob/master/src/pause.sol)
 
 ## 1. Introduction \(Summary\)
 

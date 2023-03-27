@@ -1,5 +1,6 @@
 ---
 description: Accumulation of Stability Fees for Collateral Types
+sidebar_position: 1
 ---
 
 # Jug - Detailed Documentation
@@ -7,8 +8,8 @@ description: Accumulation of Stability Fees for Collateral Types
 * **Contract Name:** Jug
 * **Type/Category:** DSS —&gt; Rates Module
 * [**Associated MCD System Diagram**](https://github.com/makerdao/dss/wiki)
-* \*\*\*\*[**Contract Source**](https://github.com/makerdao/dss/blob/master/src/jug.sol)
-* \*\*\*\*[**Etherscan**](https://etherscan.io/address/0x19c0976f590d67707e62397c87829d896dc0f1f1)
+* [**Contract Source**](https://github.com/makerdao/dss/blob/master/src/jug.sol)
+* [**Etherscan**](https://etherscan.io/address/0x19c0976f590d67707e62397c87829d896dc0f1f1)
 
 ## 1. Introduction
 

@@ -1,4 +1,5 @@
 ---
+sidebar_position: 1
 description: The Maker Protocol's trusted reference price
 ---
 
@@ -6,8 +7,8 @@ description: The Maker Protocol's trusted reference price
 
 * **Contract Name:** median.sol
 * **Type/Category:** Oracles Module
-* ****[**Associated MCD System Diagram**](https://github.com/makerdao/dss/wiki)
-* ****[**Contract Source**](https://github.com/makerdao/median/blob/master/src/median.sol)
+* [**Associated MCD System Diagram**](https://github.com/makerdao/dss/wiki)
+* [**Contract Source**](https://github.com/makerdao/median/blob/master/src/median.sol)
 
 ## 1. Introduction (Summary)
 

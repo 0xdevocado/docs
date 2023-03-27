@@ -1,4 +1,5 @@
 ---
+sidebar_position: 2
 description: The Maker Protocol's Surplus Auction House
 ---
 
@@ -6,9 +7,9 @@ description: The Maker Protocol's Surplus Auction House
 
 * **Contract Name:** flap.sol
 * **Type/Category:** DSS —> System Stabilizer Module
-* ****[**Associated MCD System Diagram**](https://github.com/makerdao/dss/wiki)
-* ****[**Contract Source**](https://github.com/makerdao/dss/blob/master/src/flap.sol)
-* ****[**Etherscan**](https://etherscan.io/address/0xc4269cc7acdedc3794b221aa4d9205f564e27f0d#code)
+* [**Associated MCD System Diagram**](https://github.com/makerdao/dss/wiki)
+* [**Contract Source**](https://github.com/makerdao/dss/blob/master/src/flap.sol)
+* [**Etherscan**](https://etherscan.io/address/0xc4269cc7acdedc3794b221aa4d9205f564e27f0d#code)
 
 ## 1. Introduction (Summary)
 

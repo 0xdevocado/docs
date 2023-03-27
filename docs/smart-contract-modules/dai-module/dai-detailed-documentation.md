@@ -1,4 +1,5 @@
 ---
+sidebar_position: 1
 description: The Dai Token Contract
 ---
 
@@ -6,9 +7,9 @@ description: The Dai Token Contract
 
 * **Contract Name:** dai.sol
 * **Type/Category:** DSS —> Dai Module
-* ****[**Associated MCD System Diagram**](https://github.com/makerdao/dss/wiki)
-* ****[**Contract Source**](https://github.com/makerdao/dss/blob/master/src/dai.sol)
-* ****[**Etherscan**](https://etherscan.io/address/0x6b175474e89094c44da98b954eedeac495271d0f)
+* [**Associated MCD System Diagram**](https://github.com/makerdao/dss/wiki)
+* [**Contract Source**](https://github.com/makerdao/dss/blob/master/src/dai.sol)
+* [**Etherscan**](https://etherscan.io/address/0x6b175474e89094c44da98b954eedeac495271d0f)
 
 ## 1. Introduction (Summary)
 

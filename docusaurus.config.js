@@ -3,6 +3,8 @@
 
 const lightCodeTheme = require('prism-react-renderer/themes/github');
 const darkCodeTheme = require('prism-react-renderer/themes/dracula');
+const math = require('remark-math');
+const katex = require('rehype-katex');
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
@@ -38,24 +40,38 @@ const config = {
       /** @type {import('@docusaurus/preset-classic').Options} */
       ({
         docs: {
+          routeBasePath: '/', // Serve the docs at the site's root
           sidebarPath: require.resolve('./sidebars.js'),
           // Please change this to your repo.
           // Remove this to remove the "edit this page" links.
           editUrl:
-            'https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/',
+            'https://github.com/makerdao/docs',
+            remarkPlugins: [math],
+            rehypePlugins: [katex],
         },
-        blog: {
-          showReadingTime: true,
-          // Please change this to your repo.
-          // Remove this to remove the "edit this page" links.
-          editUrl:
-            'https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/',
-        },
+        blog: false,
+        
+          //{
+          // showReadingTime: true,
+          // // Please change this to your repo.
+          // // Remove this to remove the "edit this page" links.
+          // editUrl:
+          //   'https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/',
+        //},
         theme: {
           customCss: require.resolve('./src/css/custom.css'),
         },
       }),
     ],
+  ],
+  stylesheets: [
+    {
+      href: 'https://cdn.jsdelivr.net/npm/katex@0.13.24/dist/katex.min.css',
+      type: 'text/css',
+      integrity:
+        'sha384-odtC+0UGzzFL/6PNoE8rX/SPcQDXBJ+uRepguP4QkPCm2LBxH3FA3y+fKSiJ+AmM',
+      crossorigin: 'anonymous',
+    },
   ],
 
   themeConfig:
@@ -70,34 +86,59 @@ const config = {
           src: 'img/logo.svg',
         },
         items: [
-          {
-            type: 'doc',
-            docId: 'intro',
-            position: 'left',
-            label: 'Tutorial',
-          },
-          {
-            href: 'https://github.com/makerdao/',
-            label: 'GitHub',
-            position: 'right',
-          },
+          // {
+          //   type: 'doc',
+          //   docId: 'intro',
+          //   position: 'left',
+          //   label: 'Tutorial',
+          // },
+          // {
+          //   href: 'https://github.com/makerdao/',
+          //   label: 'GitHub',
+          //   position: 'right',
+          // },
+          // {
+          //   href: 'https://makerdao.com/',
+          //   label: 'makerdao.com',
+          //   position: 'right',
+          // },
         ],
       },
       footer: {
         style: 'dark',
         links: [
           {
-            title: 'Docs',
+            title: 'More MakerDAO Documentation',
             items: [
               {
-                label: 'Tutorial',
-                to: '/docs/intro',
+                label: 'Governance Manual',
+                href: 'https://manual.makerdao.com/',
+              },
+              {
+                label: 'Maker Improvement Proposals',
+                href: 'https://mips.makerdao.com/',
+              },
+              {
+                label: 'Endgame Plan',
+                href: 'https://endgame.makerdao.com/',
+              },
+              {
+                label: 'Collateral Onboarding',
+                href: 'https://collateral.makerdao.com/',
+              },
+              {
+                label: 'Protocol Security',
+                href: 'https://security.makerdao.com/',
               },
             ],
           },
           {
             title: 'Community',
             items: [
+              {
+                label: 'Forum',
+                href: 'https://forum.makerdao.com/',
+              },
               {
                 label: 'Discord',
                 href: 'https://chat.makerdao.com/',
@@ -106,17 +147,22 @@ const config = {
                 label: 'Twitter',
                 href: 'https://twitter.com/makerdao',
               },
-            ],
-          },
-          {
-            title: 'More',
-            items: [
+              {
+                label: 'Youtube',
+                href: 'https://www.youtube.com/@MakerDAO',
+              },
               {
                 label: 'GitHub',
                 href: 'https://github.com/makerdao',
               },
             ],
           },
+          // {
+          //   title: 'More',
+          //   items: [
+              
+          //   ],
+          // },
         ],
         copyright: `Copyright © ${new Date().getFullYear()} Dai Foundation`,
       },

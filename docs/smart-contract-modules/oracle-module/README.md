@@ -1,4 +1,5 @@
 ---
+sidebar_position: 6
 description: The Maker Protocol's Oracles
 ---
 
@@ -6,10 +7,10 @@ description: The Maker Protocol's Oracles
 
 * **Module Name:** Oracle Module
 * **Type/Category:** Oracles —> OSM.sol & Median.sol
-* ****[**Associated MCD System Diagram**](https://github.com/makerdao/dss/wiki)
+* [**Associated MCD System Diagram**](https://github.com/makerdao/dss/wiki)
 * **Contract Sources:**
-  * ****[**Median**](https://github.com/makerdao/median/blob/master/src/median.sol)****
-  * ****[**OSM**](https://github.com/makerdao/osm/blob/master/src/osm.sol)****
+  * [**Median**](https://github.com/makerdao/median/blob/master/src/median.sol)
+  * [**OSM**](https://github.com/makerdao/osm/blob/master/src/osm.sol)
 
 ## 1. Introduction (Summary)
 
@@ -21,8 +22,8 @@ The Oracle Module has 2 core components consisting of the `Median` and `OSM` con
 
 ### Oracle Module Components Documentation
 
-* [**Median Documentation**](https://docs.makerdao.com/smart-contract-modules/oracle-module/median-detailed-documentation)****
-* ****[**OSM Documentation**](https://docs.makerdao.com/smart-contract-modules/oracle-module/oracle-security-module-osm-detailed-documentation)****
+* [**Median Documentation**](https://docs.makerdao.com/smart-contract-modules/oracle-module/median-detailed-documentation)
+* [**OSM Documentation**](https://docs.makerdao.com/smart-contract-modules/oracle-module/oracle-security-module-osm-detailed-documentation)
 
 ## 3. Key Mechanism and Concepts
 
