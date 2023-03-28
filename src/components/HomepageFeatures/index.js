@@ -40,11 +40,20 @@ const FeatureList = [
     ),
   },
   {
-    title: 'Developer Guides',
+    title: 'Governance Security',
     Svg: require('@site/static/img/undraw_docusaurus_react.svg').default,
     description: (
       <>
-        Developer guides for getting started with development on top of the Maker Protocol.
+        Documentation and processes for maintaining and integrating new modules into the Maker Protocol.
+      </>
+    ),
+  },
+  {
+    title: 'Protocol Security',
+    Svg: require('@site/static/img/undraw_docusaurus_react.svg').default,
+    description: (
+      <>
+        Audit reports and security framework documentation for Maker Protocol development.
       </>
     ),
   },
