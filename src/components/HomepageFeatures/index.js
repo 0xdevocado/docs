@@ -5,6 +5,7 @@ import styles from './styles.module.css';
 const FeatureList = [
   {
     title: 'Integrate Dai and Maker Vaults',
+    link: '/tutorials',
     Svg: require('@site/static/img/undraw_docusaurus_tree.svg').default,
     description: (
       <>
@@ -14,6 +15,7 @@ const FeatureList = [
   },
   {
     title: 'Core Protocol',
+    link: '/smart-contract-modules',
     Svg: require('@site/static/img/undraw_docusaurus_mountain.svg').default,
     description: (
       <>
@@ -23,6 +25,7 @@ const FeatureList = [
   },
   {
     title: 'Multichain and Layer 2',
+    link: '/layer2',
     Svg: require('@site/static/img/undraw_docusaurus_mountain.svg').default,
     description: (
       <>
@@ -32,6 +35,7 @@ const FeatureList = [
   },
   {
     title: 'Governance Module',
+    link: '/#',
     Svg: require('@site/static/img/undraw_docusaurus_tree.svg').default,
     description: (
       <>
@@ -41,6 +45,7 @@ const FeatureList = [
   },
   {
     title: 'Governance Security',
+    link: '/#',
     Svg: require('@site/static/img/undraw_docusaurus_react.svg').default,
     description: (
       <>
@@ -50,6 +55,7 @@ const FeatureList = [
   },
   {
     title: 'Protocol Security',
+    link: '/security',
     Svg: require('@site/static/img/undraw_docusaurus_react.svg').default,
     description: (
       <>
@@ -59,14 +65,14 @@ const FeatureList = [
   },
 ];
 
-function Feature({Svg, title, description}) {
+function Feature({Svg, title, description, link}) {
   return (
     <div className={clsx('col col--4')}>
       <div className="text--center">
         <Svg className={styles.featureSvg} role="img" />
       </div>
       <div className="text--center padding-horiz--md">
-        <h3>{title}</h3>
+        <h3><a href={link}>{title}</a></h3>
         <p>{description}</p>
       </div>
     </div>

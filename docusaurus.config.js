@@ -97,19 +97,37 @@ const config = {
         items: [
           {
           type: 'search',
-          position: 'left',
-          }
-          // {
-          //   type: 'doc',
-          //   docId: 'intro',
-          //   position: 'left',
-          //   label: 'Tutorial',
-          // },
-          // {
-          //   href: 'https://github.com/makerdao/',
-          //   label: 'GitHub',
-          //   position: 'right',
-          // },
+          position: 'right',
+          },
+          {
+            type: 'doc',
+            docId: 'intro',
+            position: 'left',
+            label: 'Core Protocol',
+          },
+          {
+            type: 'doc',
+            docId: 'layer2/README',
+            position: 'left',
+            label: 'Layer 2',
+          },
+          {
+            type: 'doc',
+            docId: 'intro',
+            position: 'left',
+            label: 'Governance',
+          },
+          {
+            type: 'doc',
+            docId: 'tutorials/README',
+            position: 'left',
+            label: 'Tutorials',
+          },
+          {
+            href: 'https://github.com/makerdao/',
+            label: 'GitHub',
+            position: 'right',
+          },
           // {
           //   href: 'https://makerdao.com/',
           //   label: 'makerdao.com',
