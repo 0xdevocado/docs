@@ -64,7 +64,7 @@ If the auction expires without receiving any bids, anyone can restart the auctio
 1. It resets `bids[id].end` to `now + tau`
 2. It resets `bids[id].lot` to `bids[id].lot * pad / ONE`
 
-![A diagram detailing the interactions a user has with Flopper and the Vow](../../assets/Flop\_auction\_interaction\_diagram.png)
+![A diagram detailing the interactions a user has with Flopper and the Vow](../../assets/flop_auction_interaction_diagram.png)
 
 #### **Bidding Requirements during an auction**
 

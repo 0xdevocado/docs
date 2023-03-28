@@ -93,7 +93,7 @@ The system relies on market participants to call `drip` rather than, say, automa
 
 Despite the variety of incentivized actors, calls to `drip` are likely to be intermittent due to gas costs and tragedy of the commons until a certain scale can be achieved. Thus the value of the `rate` parameter for a given collateral type may display the following time behavior:
 
-![](../../assets/Intermittent\_Drip.png)
+![](../../assets/intermittent_drip.png)
 
 Debt drawn and wiped between `rate` updates (i.e. between `drip` calls) would have no stability fees assessed on it. Also, depending on the timing of updates to the stability fee, there may be small discrepancies between the actual value of `rate` and its ideal value (the value if `drip` were called in every block). To demonstrate this, consider the following:
 
