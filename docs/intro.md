@@ -1,47 +1,41 @@
 ---
 sidebar_position: 1
+description:
+  The Maker Protocol is the platform through which anyone, anywhere can generate
+  the Dai stablecoin against crypto collateral assets. Learn how it works.
 ---
 
-# Tutorial Intro
+# Developer Portal Introduction
 
-Let's discover **Docusaurus in less than 5 minutes**.
+## MakerDAO Documentation Overview
 
-## Getting Started
+* [Introductory](https://makerdao.world/en/) @ MakerDAO.world
+* [Governance](https://manual.makerdao.com) @ manual.makerdao.com
+* [**Technical**](https://docs.makerdao.com) **@ docs.makerdao.com** **← You are here**
+* [Collateral Onboarding](https://collateral.makerdao.com) @ collateral.makerdao.com
+* [MIPs Portal](https://mips.makerdao.com) @ mips.makerdao.com
 
-Get started by **creating a new site**.
+## Introduction
 
-Or **try Docusaurus immediately** with **[docusaurus.new](https://docusaurus.new)**.
+MakerDAO is a decentralized organization dedicated to bringing stability to the cryptocurrency economy. The Maker Protocol employs a two-token system. The first being, Dai, a collateral-backed stablecoin that offers stability. The Maker Foundation and the MakerDAO community believe that a decentralized stablecoin is required to have any business or individual realize the advantages of digital money. Second, there is MKR, a governance token that is used by stakeholders to maintain the system and manage Dai. MKR token holders are the decision-makers of the Maker Protocol, supported by the larger public community and various other external parties.
 
-### What you'll need
+Maker is unlocking the power of decentralized finance for everyone by creating an inclusive platform for economic empowerment; enabling everyone with equal access to the global financial marketplace.
 
-- [Node.js](https://nodejs.org/en/download/) version 16.14 or above:
-  - When installing Node.js, you are recommended to check all checkboxes related to dependencies.
+With the new version of the **Maker Protocol**, Multi Collateral Dai (MCD), being released and live on the main Ethereum network, we wanted to go over a few of the changes and features that it comes with. The biggest change to the Maker Protocol is that it now accepts any Ethereum-based asset as collateral to generate Dai given that it has been approved by MKR holders and has been given specific, corresponding Risk Parameters through the Maker decentralized governance process.
 
-## Generate a new site
+Additionally, there are a few other newly introduced features that come with the MCD upgrade. **These new features include:**
 
-Generate a new Docusaurus site using the **classic template**.
+* [New Dai token ($DAI)](https://blog.makerdao.com/creating-the-brand-identity-for-the-worlds-first-unbiased-currency-dai/)
+* Support for multiple Vault collateral types (Launching with ETH and BAT)
+  * To open a Vault, head to [**Oasis Borrow**](https://oasis.app/borrow)
+* [Dai Savings Rate (DSR)](https://blog.makerdao.com/why-the-dai-savings-rate-is-a-game-changer-for-the-defi-ecosystem-and-beyond/)
+  * To use the DSR, head to [**Oasis Earn**](https://oasis.app/earn)
+* More robust peg ensuring mechanisms (MKR acting as backstop)
+* Stability fees paid every block, rather than on Dai repayment
+* [New Maker Terminology](https://blog.makerdao.com/say-goodbye-to-cdps-and-hello-to-maker-vaults/)
+* MKR and governance remains the same
+* [Oasis Trade](https://oasis.app/trade)
 
-The classic template will automatically be added to your project after you run the command:
+## The Maker Protocol Smart Contract Modules System
 
-```bash
-npm init docusaurus@latest my-website classic
-```
-
-You can type this command into Command Prompt, Powershell, Terminal, or any other integrated terminal of your code editor.
-
-The command also installs all necessary dependencies you need to run Docusaurus.
-
-## Start your site
-
-Run the development server:
-
-```bash
-cd my-website
-npm run start
-```
-
-The `cd` command changes the directory you're working with. In order to work with your newly created Docusaurus site, you'll need to navigate the terminal there.
-
-The `npm run start` command builds your website locally and serves it through a development server, ready for you to view at http://localhost:3000/.
-
-Open `docs/intro.md` (this page) and edit some lines: the site **reloads automatically** and displays your changes.
+![The Maker Protocol System Diagram](<assets/MCD System 2.1.png>)

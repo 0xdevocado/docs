@@ -4,45 +4,75 @@ import styles from './styles.module.css';
 
 const FeatureList = [
   {
-    title: 'Easy to Use',
-    Svg: require('@site/static/img/undraw_docusaurus_mountain.svg').default,
-    description: (
-      <>
-        Docusaurus was designed from the ground up to be easily installed and
-        used to get your website up and running quickly.
-      </>
-    ),
-  },
-  {
-    title: 'Focus on What Matters',
+    title: 'Integrate Dai and Maker Vaults',
+    link: '/tutorials',
     Svg: require('@site/static/img/undraw_docusaurus_tree.svg').default,
     description: (
       <>
-        Docusaurus lets you focus on your docs, and we&apos;ll do the chores. Go
-        ahead and move your docs into the <code>docs</code> directory.
+        Learn how to integrate Dai and Maker Vaults into your applications.
       </>
     ),
   },
   {
-    title: 'Powered by React',
+    title: 'Core Protocol',
+    link: '/smart-contract-modules',
+    Svg: require('@site/static/img/undraw_docusaurus_mountain.svg').default,
+    description: (
+      <>
+        Detailed documentation for the core smart contract modules of the Maker Protocol.
+      </>
+    ),
+  },
+  {
+    title: 'Multichain and Layer 2',
+    link: '/layer2',
+    Svg: require('@site/static/img/undraw_docusaurus_mountain.svg').default,
+    description: (
+      <>
+        Detailed documentation for the core smart contract modules of the Maker Protocol.
+      </>
+    ),
+  },
+  {
+    title: 'Governance Module',
+    link: '/#',
+    Svg: require('@site/static/img/undraw_docusaurus_tree.svg').default,
+    description: (
+      <>
+        Detailed documentation for Maker Govervance smart contracts.
+      </>
+    ),
+  },
+  {
+    title: 'Governance Security',
+    link: '/#',
     Svg: require('@site/static/img/undraw_docusaurus_react.svg').default,
     description: (
       <>
-        Extend or customize your website layout by reusing React. Docusaurus can
-        be extended while reusing the same header and footer.
+        Documentation and processes for maintaining and integrating new modules into the Maker Protocol.
+      </>
+    ),
+  },
+  {
+    title: 'Protocol Security',
+    link: '/security',
+    Svg: require('@site/static/img/undraw_docusaurus_react.svg').default,
+    description: (
+      <>
+        Audit reports and security framework documentation for Maker Protocol development.
       </>
     ),
   },
 ];
 
-function Feature({Svg, title, description}) {
+function Feature({Svg, title, description, link}) {
   return (
     <div className={clsx('col col--4')}>
       <div className="text--center">
         <Svg className={styles.featureSvg} role="img" />
       </div>
       <div className="text--center padding-horiz--md">
-        <h3>{title}</h3>
+        <h3><a href={link}>{title}</a></h3>
         <p>{description}</p>
       </div>
     </div>
