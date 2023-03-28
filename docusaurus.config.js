@@ -95,6 +95,10 @@ const config = {
           src: 'img/logo.svg',
         },
         items: [
+          {
+          type: 'search',
+          position: 'left',
+          }
           // {
           //   type: 'doc',
           //   docId: 'intro',
