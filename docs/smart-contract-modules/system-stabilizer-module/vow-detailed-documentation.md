@@ -15,7 +15,7 @@ description: The Maker Protocol's Balance Sheet
 
 The `Vow` contract represents the Maker Protocol's balance sheet. In particular, the `Vow` acts as the recipient of both the system surplus and system debt. Its main functions are to cover deficits via debt (`Flop`) auctions and discharge surpluses via surplus (`Flap`) auctions.
 
-![Vow.sol Contract Interaction](../../assets/Screen\_Shot\_2019-11-04\_at\_5.34.15\_PM.png)
+![Vow.sol Contract Interaction](../../assets/screen_shot_2019-11-04_at_5.34.15_pm.png)
 
 **Pictured:**
 

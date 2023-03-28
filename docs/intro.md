@@ -38,4 +38,4 @@ Additionally, there are a few other newly introduced features that come with the
 
 ## The Maker Protocol Smart Contract Modules System
 
-![The Maker Protocol System Diagram](<.gitbook/assets/MCD System 2.1.png>)
+![The Maker Protocol System Diagram](<assets/MCD System 2.1.png>)

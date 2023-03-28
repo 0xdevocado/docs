@@ -65,17 +65,17 @@ Each individual Vault (represented by an `Urn` struct in the Vat) stores a "norm
 
 Suppose at time 0, a Vault is opened and 20 Dai is drawn from it. Assume that `rate` is 1; this implies that the stored `art` in the Vault's `Urn` is also 20. Let the `base` and `duty` be set such that after 12 years, `art*rate` = 30 (this corresponds to an annual stability of roughly 3.4366%). Equivalently, `rate` = 1.5 after 12 years. Assuming that `base + duty` does not change, the growth of the effective debt can be graphed as follows:
 
-![](../../assets/Debt\_initial.png)
+![](../../assets/debt_initial.png)
 
 Now suppose that at 12 years, an additional 10 Dai is drawn. The debt vs time graph would change to look like:
 
-![](../../assets/Debt\_second\_draw.png)
+![](../../assets/debt_second_draw.png)
 
 What `art` would be stored in the Vat to reflect this change? (hint: _not_ 30!) Recall that `art` is defined from the requirement that `art * rate` = Vault debt. Since the Vault's debt is known to be 40 and `rate` is known to be 1.5, we can solve for `art`: 40/1.5 \~ 26.67.
 
 The `art` can be thought of as "debt at time 0", or "the amount of Dai that if drawn at time zero would result in the present total debt". The graph below demonstrates this visually; the length of the green bar extending upwards from t = 0 is the post-draw `art` value.
 
-![](../../assets/Debt\_projected.png)
+![](../../assets/debt_projected.png)
 
 Some consequences of the mechanism that are good to keep in mind:
 
