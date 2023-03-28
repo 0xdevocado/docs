@@ -18,7 +18,7 @@ sidebar_position: 10
 
 The Proxy module was created in order to make it more convenient for users/developers to interact with the Maker Protocol. It contains contract interfaces, proxies, and aliases to functions necessary for both DSR and Vault management and Maker governance.
 
-![](../../.gitbook/assets/proxymodulenew.png)
+![](../../assets/proxymodulenew.png)
 
 ## 2. Module Details
 

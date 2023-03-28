@@ -14,7 +14,7 @@ description: The Maker Protocol's Liquidation Agent
 
 The `Cat` is the system's liquidation agent, it enables keepers to mark positions as unsafe and sends them to auction.
 
-![](<../../.gitbook/assets/Screen Shot 2019-11-17 at 2.22.55 PM.png>)
+![](<../../assets/Screen Shot 2019-11-17 at 2.22.55 PM.png>)
 
 ## 2. Contract Details
 

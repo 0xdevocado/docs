@@ -16,7 +16,7 @@ description: The Maker Protocol's Collateral Auction House
 
 **Summary:** Collateral Auctions are used to sell collateral from Vaults that have become undercollateralized in order to preserve the collateralization of the system. The Cat sends bitten collateral to the Flip module to be auctioned off to keepers. The collateral auction has two phases: `tend` and `dent`.
 
-![Flip Interactions with the Maker Protocol ](<../../.gitbook/assets/Screen Shot 2019-11-17 at 2.01.16 PM.png>)
+![Flip Interactions with the Maker Protocol ](<../../assets/Screen Shot 2019-11-17 at 2.01.16 PM.png>)
 
 ## 2. Contract Details
 
@@ -83,7 +83,7 @@ During the `dent`-phase bidders compete for decreasing `lot` amounts of Gem for 
 
 Once the auction's last bid has expired or the auction itself has reached the `end` anyone can call `deal` to payout the highest bidder (`Bid.guy`). This moves Gem's from the Flipper's balance in the Vat to the bidder's balance.
 
-![A diagram detailing the interactions a user has with Flipper, Cat and the Vow.](../../.gitbook/assets/Flip\_auction\_diagram\_interaction.png)
+![A diagram detailing the interactions a user has with Flipper, Cat and the Vow.](../../assets/Flip\_auction\_diagram\_interaction.png)
 
 ## 4. Gotchas (Potential Source of User Error)
 

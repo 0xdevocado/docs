@@ -15,7 +15,7 @@ sidebar_position: 1
 
 The `End`'s purpose is to coordinate Shutdown. In short, Shutdown closes down the system and reimburses Dai holders. This process can occur during upgrades (Dai iterations), as well as for security reasons in the event that implementation flaws arise in both in the code and in the design.
 
-![](<../../.gitbook/assets/mcd-system-2.0 (2) (1).png>)
+![](<../../assets/mcd-system-2.0 (2) (1).png>)
 
 ## 2. Contract Details
 
@@ -95,7 +95,7 @@ The `End`'s purpose is to coordinate Shutdown. In short, Shutdown closes down th
 
 ## 3. Key Mechanisms & Concepts
 
-![Note: The Vault owner must wait for skim to free collateral since it requires art == 0.](../../.gitbook/assets/emergency-shutdown-process.png)
+![Note: The Vault owner must wait for skim to free collateral since it requires art == 0.](../../assets/emergency-shutdown-process.png)
 
 ### Cage (Summary)
 

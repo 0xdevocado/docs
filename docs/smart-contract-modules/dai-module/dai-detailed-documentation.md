@@ -15,7 +15,7 @@ description: The Dai Token Contract
 
 The `Dai` contract is the user-facing ERC20 token contract maintaining the accounting for external Dai balances. Most functions are standard for a token with changing supply, but it also notably features the ability to issue approvals for transfers based on signed messages.
 
-![Dai Interactions with the Maker Protocol](<../../.gitbook/assets/Screen Shot 2019-11-17 at 2.08.05 PM.png>)
+![Dai Interactions with the Maker Protocol](<../../assets/Screen Shot 2019-11-17 at 2.08.05 PM.png>)
 
 ## 2. Contract Details
 

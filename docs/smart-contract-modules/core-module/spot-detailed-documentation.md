@@ -15,7 +15,7 @@ description: "The Maker Protocol's liaison between the\_Oracles\_and\_Core Contr
 
 The `Spot` liaison between the `oracles` and the core contracts. It functions as an interface contract and only stores the current `ilk` list.
 
-![](<../../.gitbook/assets/Screen Shot 2019-11-17 at 2.26.39 PM.png>)
+![](<../../assets/Screen Shot 2019-11-17 at 2.26.39 PM.png>)
 
 ## 2. Contract Details
 

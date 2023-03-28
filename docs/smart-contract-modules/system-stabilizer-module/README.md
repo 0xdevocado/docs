@@ -43,11 +43,11 @@ The System Stabilizer Module has 3 core components consisting of the `Vow`, `Flo
 
 #### How the System Stabilizer Module Interacts with the other DSS Modules
 
-![](<../../.gitbook/assets/Screen Shot 2019-11-12 at 11.28.41 PM.png>)
+![](<../../assets/Screen Shot 2019-11-12 at 11.28.41 PM.png>)
 
 #### How do the `Vow`, `Flop` and `Flap` contracts help the MCD system operate?
 
-![](<../../.gitbook/assets/Screen Shot 2019-11-12 at 11.33.23 PM.png>)
+![](<../../assets/Screen Shot 2019-11-12 at 11.33.23 PM.png>)
 
 #### Vow
 
@@ -66,7 +66,7 @@ The purpose of debt auctions is to cover the system deficit, which is resembled 
 1. To raise an amount of Dai equivalent to the amount of bad debt as fast as possible.
 2. To minimize the amount of MKR inflation.
 
-![A diagram detailing the interactions a user has with Flopper and the Vow](<../../.gitbook/assets/flop\_auction\_interaction\_diagram (1).png>)
+![A diagram detailing the interactions a user has with Flopper and the Vow](<../../assets/flop\_auction\_interaction\_diagram (1).png>)
 
 #### Flap
 
@@ -76,7 +76,7 @@ The purpose of the surplus auctions is to release Dai surplus from the `Vow` whi
 
 1. To mechanically reduce the MKR supply when auctioning off Dai surplus.
 
-![A diagram detailing the interactions a user has with Flapper and the Vow.](../../.gitbook/assets/Flap\_auction\_interaction\_.png)
+![A diagram detailing the interactions a user has with Flapper and the Vow.](../../assets/Flap\_auction\_interaction\_.png)
 
 ## 4. Gotchas (Potential Sources of User Error)
 
